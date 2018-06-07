@@ -1,0 +1,1 @@
+Required Libraries: numpy, matplotlibSample run1: (default threshold size = 1000)python [script_name] [similariy_matrix] [class_labels] python assignment1.py data1_SM.txt data1_Class_Labels.txtSample run2: (to change precision)python [script_name] [similariy_matrix] [class_labels] [threshold_size]python assignment1.py data1_SM.txt data1_Class_Labels.txt 5000
